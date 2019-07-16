@@ -1,2 +1,3 @@
-DD
 # git-practice
+
+こんにちは
